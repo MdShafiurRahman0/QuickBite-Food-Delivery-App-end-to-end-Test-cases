@@ -316,14 +316,6 @@ Every test case in the **Test Cases** tab uses the same 13 columns.
 
 ---
 
-## Repository Contents
-
-```text
-.
-├── README.md                     # This documentation
-└── QuickBite_Test_Cases.xlsx     # Offline copy of the Google Sheet (optional)
-```
-
 ---
 
 ## Author
